@@ -1,75 +1,57 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Project Name 
+React: Book-Store-App
+# Description of project.
+In this project, I use a react web application to create a single-page app for a Bookstore
 
-# Project Name
+## Project web demo link.
+Run npm start in an intergrated terminal in order to start a local live server.
+Or try the Live Demo (if available)
 
-> Description the project.
+## Built With 
+- Html & CSS
+- JavaScript
+- React
+- Visual studio
+- Webpack
 
+# Getting starting 
+To get a local copy up and running follow these simple example steps:
 
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
+## Prerequisites
+ Vscode. 
+ must have git installed.
 
 ### Setup
+- Click on the green button on the top right corner with the text code
+- Click on SSH
+- Copy the text that appears below 
+- Type "git clone" in your terminal and past the copied text next to "git clone" and press ente
 
-### Install
+## 🛠 Installation & Set Up
+- Click on the green button on the top right corner with the text code
+- Click on "Download ZIP"
+- Extract the downloaded file locally
 
-### Usage
+## 🚀 Building and Running for Production
 
-### Run tests
+1. Generate a full static production build
 
-### Deployment
+   npm run build
 
+## Author 1
+👤 James Asibey Manu
 
+- GitHub: [@githubhandle](https://github.com/jaamanu)
+- Twitter: [@twitterhandle](https://twitter.com/JamesAsibeyManu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jamesasibeymanu/)
 
-## Authors
+# 🤝 Contributing
+ Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]Fork the Project Create your Feature Branch (git checkout -b 'branchname') Commit your Changes (git commit -m 'Add some branchname') Push to the Branch (git push origin branchname) Open a Pull Request Feel free to check the
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
+## Show your support 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## Acknowledgments 
+MICROVERSE and My Team.
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is MIT licensed.
