@@ -20,8 +20,8 @@ const data = [
   },
   {
     id: 1,
-    title: 'Ashanti Kingdom',
-    author: 'James',
+    title: 'Alice in wonderland',
+    author: 'Kenny',
   },
   {
     id: 1,

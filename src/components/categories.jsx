@@ -1,7 +1,7 @@
 import './category.css';
 
 const Categories = () => (
-  <button type="submit" className="button">Check status</button>
+  <button className="button" type="button">Check status</button>
 );
 
 export default Categories;

@@ -5,12 +5,13 @@ const Book = ({ title, author }) => (
   <section className="sec">
     <p>{title}</p>
     <p>{author}</p>
-    <button type="submit">Remove</button>
+    <button type="button">Remove</button>
   </section>
 );
+
 Book.propTypes = {
   title: PropTypes.string.isRequired,
   author: PropTypes.string.isRequired,
-
 };
+
 export default Book;
