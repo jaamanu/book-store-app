@@ -9,28 +9,28 @@ const ADD__BOOK = 'bookstore/book/ADD__BOOK';
 const displayBooks = [
   {
     id: uuidv4(),
-    title: 'Avengers',
-    author: 'Kenny elias',
+    title: 'RichDAD Poor DAD',
+    author: 'KIYOSAKI',
   }, {
     id: uuidv4(),
-    title: 'legend of the seeker',
-    author: 'Kenny elias',
+    title: 'DAD FOR GIRLS',
+    author: 'JA MANU',
   }, {
     id: uuidv4(),
-    title: 'the line',
-    author: 'Kenny elias',
+    title: 'Traveller',
+    author: 'JA MANU',
   }, {
     id: uuidv4(),
-    title: 'behind enemies line',
-    author: 'Kenny elias',
+    title: 'My poor country',
+    author: 'JA MANU',
   }, {
     id: uuidv4(),
-    title: 'Avengers',
-    author: 'Kenny elias',
+    title: 'Marriage fix',
+    author: 'JA MANU',
   }, {
     id: uuidv4(),
-    title: 'Avengers',
-    author: 'Kenny elias',
+    title: 'Brotherhood',
+    author: 'JA MANU',
   },
 ];
 // REDUCERS
