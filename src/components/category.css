@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
-.button {
-  margin-top: 20px;
+.button2 {
+  margin-top: 50px;
+  opacity: 0.5px;
+}
+
+.book {
+  width: 80%;
 }
