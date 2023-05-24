@@ -4,8 +4,6 @@ React: Book-Store-App
 In this project, I use a react web application to create a single-page app for a Bookstore
 
 ## Project web demo link.
-Run npm start in an intergrated terminal in order to start a local live server.
-Or try the 
 [Live Demo] (https://bookshelf-web-app.netlify.app/)
 
 ## Built With 
